@@ -11,7 +11,7 @@ body::before {
     left: 0;
     will-change: transform;
     z-index: -1;
-    background-image: url('/');
+    background-image: url('/images');
     background-repeat: no-repeat;
     background-position: top right;
     background-size: cover;
